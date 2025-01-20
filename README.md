@@ -8,7 +8,7 @@
   <img src="./thoughtworks-gif_dribbble.gif" height="200px" alt="ThoughtWorks GIF" />
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=revanthkumarJ&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+    <img src="https://komarev.com/ghpvc/?username=rameshbanala&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
   </p>
   
   <h2 align="center">Web Development ▸ Software Development</h2>
