@@ -30,7 +30,7 @@ Most importantly, I'm a reliable designer you can rely on for all your design ne
 <h3 align="center">📊 My Stats</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rameshbanala&theme=algolia" alt="codeaashu" /></a> </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=revanthkumarJ&show_icons=true&rank_icon=github&border=true&border_color=ffffff&title_color=00ACC1&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=001233&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rameshbanala&show_icons=true&rank_icon=github&border=true&border_color=ffffff&title_color=00ACC1&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=001233&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshbanala&show_icons=true&border=true&border_color=ffffff&text_color=FFFFFF&bg_color=001233&title_color=00ACC1&langs_count=15&layout=compact" />
 
 </div> <hr>
@@ -80,13 +80,13 @@ Most importantly, I'm a reliable designer you can rely on for all your design ne
 
 
 
-## 🌐 Coding Profiles:
+<!--## 🌐 Coding Profiles:
 <p align="center">
 <a href="https://leetcode.com/RevanthKumarJ/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" height="30px"/></a>
 <a href="https://auth.geeksforgeeks.org/user/jrevanth/" target="_blank"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GFG-%231DBF73.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="30px"/></a>
 <a href="https://www.codechef.com/users/revanthkumarj1" target="_blank"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-%23B05128.svg?&style=for-the-badge&logo=codechef&logoColor=white" height="30px"/></a>
 <a href="https://www.hackerrank.com/jrevanth101" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%231F8ACB.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" height="30px"/></a>
-<a href="https://www.naukri.com/code360/profile/revanthKumarJ" target="_blank"><img alt="Coding Ninjas" src="https://img.shields.io/badge/Coding%20Ninjas-%23FF6F00.svg?&style=for-the-badge&logo=codingninjas&logoColor=white" height="30px"/></a>
+<a href="https://www.naukri.com/code360/profile/revanthKumarJ" target="_blank"><img alt="Coding Ninjas" src="https://img.shields.io/badge/Coding%20Ninjas-%23FF6F00.svg?&style=for-the-badge&logo=codingninjas&logoColor=white" height="30px"/></a>-->
 <!-- <a href="https://atcoder.jp/users/RevanthKumarJ" target="_blank"><img alt="AtCoder" src="https://img.shields.io/badge/AtCoder-%230A9DC7.svg?&style=for-the-badge&logo=atcoder&logoColor=white" height="30px"/></a>
 <a href="https://codeforces.com/profile/RevanthKumarJ" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?&style=for-the-badge&logo=codeforces&logoColor=white" height="30px"/></a> -->
 </p>
